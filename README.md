@@ -1,7 +1,7 @@
 # batch-space-remover
 Batch space remover, simply removes the space in the names of the files in a folder.
 
-How to utilize?
+How to utilize it?
 
 Simply put the files in the "input" folder and start the .py script, the resulting files will be placed in the "output" folder.
 
